@@ -41,7 +41,7 @@
     "meow": "^7.0.1",
     "signale": "^1.4.0",
     "sprintf-js": "1.0.2",
-    "word-wrap": "1.0.3"
+    "word-wrap": "^1.2.5"
   },
   "devDependencies": {
     "@types/figlet": "^1.5.4",
@@ -50,8 +50,8 @@
     "@types/sprintf-js": "^1.1.2",
     "@types/update-notifier": "^4.1.1",
     "@types/word-wrap": "^1.2.1",
-    "typescript": "^3.9.10",
-    "xo": "^0.41.0"
+    "typescript": "^5.9.3",
+    "xo": "^2.0.2"
   },
   "xo": {
     "space": 2,
